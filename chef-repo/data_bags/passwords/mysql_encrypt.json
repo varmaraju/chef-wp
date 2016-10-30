@@ -1,0 +1,15 @@
+{
+  "id": "mysql_encrypt",
+  "username": {
+    "encrypted_data": "MktrD2zBuf8AQoGUQFQXKd6WKbLfV3i4GKf03FNS54g=\n",
+    "iv": "IhsVEIYKeX4tSGIL7n1hbA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "password": {
+    "encrypted_data": "qYmo7edv0eClhPsE2XEH1YfVZJwKw2A2HpdHSQhLWY0=\n",
+    "iv": "ZupZrKdDJsC2RTQ29eg4uA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
